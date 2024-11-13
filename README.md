@@ -2,7 +2,7 @@
 - I code in Java and Python, also fluent in web developments 
 - 👀 I’m interested in Programming, robotics, AI ,Tech Inventions
 - 🌱 I’m currently on my Bsc. Program @Landmark University
-- 💞️ I’m looking to collaborate with a team of intetllectual progammers
+- 💞️ I’m looking to collaborate with a team of intellectual progammers
 - 📫 How to reach me Instagram @actur.bactur, whatsapp +2348164960314, 
 
 <!---
